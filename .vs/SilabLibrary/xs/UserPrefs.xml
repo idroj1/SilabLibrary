@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{91609712-058B-4322-BCCD-EE64B1AC3CE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SLprog.test/SLprogT.cs">
+    <Files>
+      <File FileName="SLprog/SLprogP.cs" Line="33" Column="1" />
+      <File FileName="SLprog.test/SLprogT.cs" Line="29" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SilabLibrary" expanded="True">
+            <Node name="SLprog" expanded="True" />
+            <Node name="SLprog.test" expanded="True">
+              <Node name="SLprogT.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SLprog.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

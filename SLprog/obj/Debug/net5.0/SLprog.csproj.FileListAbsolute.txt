@@ -1,0 +1,12 @@
+/Users/jordi/Desktop/SilabLibrary/SLprog/bin/Debug/net5.0/SLprog.deps.json
+/Users/jordi/Desktop/SilabLibrary/SLprog/bin/Debug/net5.0/SLprog.dll
+/Users/jordi/Desktop/SilabLibrary/SLprog/bin/Debug/net5.0/ref/SLprog.dll
+/Users/jordi/Desktop/SilabLibrary/SLprog/bin/Debug/net5.0/SLprog.pdb
+/Users/jordi/Desktop/SilabLibrary/SLprog/obj/Debug/net5.0/SLprog.csproj.AssemblyReference.cache
+/Users/jordi/Desktop/SilabLibrary/SLprog/obj/Debug/net5.0/SLprog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordi/Desktop/SilabLibrary/SLprog/obj/Debug/net5.0/SLprog.AssemblyInfoInputs.cache
+/Users/jordi/Desktop/SilabLibrary/SLprog/obj/Debug/net5.0/SLprog.AssemblyInfo.cs
+/Users/jordi/Desktop/SilabLibrary/SLprog/obj/Debug/net5.0/SLprog.csproj.CoreCompileInputs.cache
+/Users/jordi/Desktop/SilabLibrary/SLprog/obj/Debug/net5.0/SLprog.dll
+/Users/jordi/Desktop/SilabLibrary/SLprog/obj/Debug/net5.0/ref/SLprog.dll
+/Users/jordi/Desktop/SilabLibrary/SLprog/obj/Debug/net5.0/SLprog.pdb
